@@ -8,6 +8,9 @@ Die Requirement Datei enthält die verschiedene Klassenbibliotheken, die für di
 ## Beispiel der Übungsaufgabe
 Die Funktion seaborn.countplot() wird hier verwendet, um einer allgemeinen Visualisierung der Bank Daten zu ermöglichen. Als Ergebnis ist zwei Balken mit dem Wert 1 und 0 zu sehen. Diese Werte repräsentieren die kategoriale Variable, welche geplottet wurden.
 
+
+<img width="313" alt="Deep-Learning_5-Tensorflow_Projekt-Loesung ipynb" src="https://user-images.githubusercontent.com/62958158/184736258-7fc171ed-e305-4f17-9d75-d48d0d1b497b.png">
+
 Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dimoua/-Deep-Learning.git/HEAD)
