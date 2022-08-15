@@ -10,7 +10,7 @@ Die Funktion seaborn.countplot() wird hier verwendet, um einer allgemeinen Visua
 
 Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dimoua/-Logistic-Regression.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dimoua/-Deep-Learning.git/HEAD)
 
 ## Funktionsausführung
 
@@ -18,7 +18,7 @@ Auf der Notebook 5-Tensorflow_Projekt-Loesung.ipynb klicken.
 Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion head() ausgeführt wird.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dimoua/-Deep-Learning.git/HEAD)
+
 
 
 
